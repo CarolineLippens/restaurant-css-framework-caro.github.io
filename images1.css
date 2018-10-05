@@ -72,23 +72,30 @@ a:active {
   height: 625px;
   background-image: url("photo1.jpg");
   background-size: contain;
-  margin-top: 30px; }
+  margin-top: 30px;
+  background-repeat: no-repeat; }
 
 .img2 {
   height: 625px;
   background-image: url("photo2.jpg");
   background-size: contain;
-  margin-top: 30px; }
+  margin-top: 30px;
+  background-repeat: no-repeat; }
 
 .img3 {
   height: 625px;
   background-image: url("photo3.jpg");
   background-size: contain;
-  margin-top: 30px; }
+  margin-top: 30px;
+  background-repeat: no-repeat; }
 
 .img4 {
   height: 625px;
   background-image: url("photo4.jpg");
   background-size: contain;
   margin-top: 30px;
-  margin-bottom: 30px; }
+  margin-bottom: 30px;
+  background-repeat: no-repeat; }
+
+img {
+  width: 99%; }
