@@ -2,10 +2,7 @@ body {
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
   overflow-x: hidden;
-  background-image: url("pluto.png");
-  background-position-x: -400px;
-  background-position-y: 200px;
-  background-size: cover;
+  background-color: #013f01;
   cursor: url("cornichon1.png"), pointer; }
 
 .logoheader {
@@ -98,7 +95,7 @@ a:active {
   background-size: cover; }
 
 p {
-  color: white; }
+  color: black; }
 
 .nav-link:hover {
   background-color: #53b66c;
